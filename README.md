@@ -1,9 +1,10 @@
-<h1 align="center">FARAZ.</h1>
-
-<h3 align="center">AI / ML Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=42&duration=3000&pause=800&color=E8A848&center=true&vCenter=true&width=600&height=70&lines=FARAZ.;AI+%2F+ML+Engineer.;I+build+things+that+ship." alt="Typing SVG" />
+</p>
 
 <p align="center">
-  I build AI systems that actually <b>ship.</b> I'm focused on crafting production-grade RAG pipelines, LLM agents, and ML forecasting systems — from prototype to deployment.
+  Crafting production-grade RAG pipelines, LLM agents, and ML forecasting systems<br/>
+  — from prototype to deployment.
 </p>
 
 <p align="center">
@@ -32,26 +33,18 @@
 
 ### // TECH STACK
 
-**▸ AI, ML & Data**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,docker,git,vite&theme=dark&perline=6" />
+</p>
 
-**▸ Backend & Databases**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-121212?style=flat-square)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,github,vscode,linux,nextjs&theme=dark&perline=6" />
+</p>
 
-**▸ Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**▸ DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+**▸ AI, ML & Data** — LangChain · HuggingFace · OpenAI · FAISS · Ollama · Pandas · Prophet  
+**▸ Backend** — FastAPI · DuckDB · SQLite  
+**▸ Frontend** — React · Vite · Next.js  
+**▸ DevOps** — Docker · Git · Vertex AI · Jupyter
 
 ---
 
@@ -66,4 +59,12 @@ An intelligent support agent that uses RAG architecture to search knowledge base
 #### [Ticket Forecasting (ML Demand Prediction)](https://github.com/faraz18001/Forecastsing-Model)
 A machine learning forecasting system built with Prophet that predicts support ticket volumes, enabling proactive resource allocation.
 
+---
 
+### // CONTRIBUTION GRAPH
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faraz18001/faraz18001/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faraz18001/faraz18001/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/faraz18001/faraz18001/output/github-contribution-grid-snake-dark.svg" />
+</picture>
