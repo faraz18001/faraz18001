@@ -100,7 +100,19 @@
         <img src="https://img.shields.io/badge/View_Repo-E8A848?style=for-the-badge&logo=github&logoColor=black" />
       </a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>⬡ Vetlog-AI</h3>
+      <p><em>WhatsApp Report Summarizer</em></p>
+      <p>AI-powered report summarizer delivered through WhatsApp Business API. Sends documents, gets back clean GPT-4o summaries — no app needed.</p>
+      <p>
+        <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <a href="https://github.com/faraz18001/Vetlog-AI">
+        <img src="https://img.shields.io/badge/View_Repo-E8A848?style=for-the-badge&logo=github&logoColor=black" />
+      </a>
+    </td>
   </tr>
 </table>
 
