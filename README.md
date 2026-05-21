@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Faraz 👋</h1>
+<h1 align="center">FARAZ.</h1>
 
 <h3 align="center">AI / ML Engineer</h3>
 
@@ -20,41 +20,42 @@
 
 ---
 
-### 👨‍💻 About Me
+### // ABOUT
 
-- 🔭 Over the past 3 years, I've been designing and shipping RAG pipelines, LLM-powered agents, and ML forecasting systems.
-- 🌱 I care about the full ML lifecycle: from data exploration to deployment and monitoring.
-- 👯 When I'm not building AI systems, I'm exploring new model architectures, contributing to open source, or writing about practical ML engineering.
-- 📫 How to reach me: **syedfaraz1900@gmail.com**
+✦ Over the past 3 years, I've been designing and shipping RAG pipelines, LLM-powered agents, and ML forecasting systems.<br>
+✦ I care about the full ML lifecycle: from data exploration to deployment and monitoring.<br>
+✦ When I'm not building AI systems, I'm exploring new model architectures, contributing to open source, or writing about practical ML engineering.<br>
+✦ Based in: Karachi, Pakistan<br>
+✦ Contact: **syedfaraz1900@gmail.com**
 
 ---
 
-### 🛠️ My Tech Stack
+### // TECH STACK
 
-**🤖 AI, ML & Data**  
+**▸ AI, ML & Data**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**🌐 Backend & Databases**  
+**▸ Backend & Databases**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-121212?style=flat-square)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 
-**💻 Frontend**  
+**▸ Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**☁️ DevOps & Tools**  
+**▸ DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
-### 💼 Selected Work
+### // SELECTED WORK
 
 #### [D.A.S.H (Data Analysis System Hub)](https://github.com/faraz18001/D.A.S.H-Production)
 A full-stack platform that lets users query transaction data using natural language. Powered by LangChain and GPT-4 with FAISS vector search for context-aware responses.
