@@ -38,13 +38,17 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,github,vscode,linux,nextjs&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux,nextjs,postgres,jupyter&theme=dark&perline=6" />
 </p>
 
-**▸ AI, ML & Data** — LangChain · HuggingFace · OpenAI · FAISS · Ollama · Pandas · Prophet  
-**▸ Backend** — FastAPI · DuckDB · SQLite  
-**▸ Frontend** — React · Vite · Next.js  
-**▸ DevOps** — Docker · Git · Vertex AI · Jupyter
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-121212?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-E8A848?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prophet-D4634A?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
