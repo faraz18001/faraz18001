@@ -63,12 +63,3 @@ An intelligent support agent that uses RAG architecture to search knowledge base
 #### [Ticket Forecasting (ML Demand Prediction)](https://github.com/faraz18001/Forecastsing-Model)
 A machine learning forecasting system built with Prophet that predicts support ticket volumes, enabling proactive resource allocation.
 
----
-
-### // CONTRIBUTION GRAPH
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faraz18001/faraz18001/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faraz18001/faraz18001/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/faraz18001/faraz18001/output/github-contribution-grid-snake-dark.svg" />
-</picture>
