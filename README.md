@@ -54,12 +54,53 @@
 
 ### // SELECTED WORK
 
-#### [D.A.S.H (Data Analysis System Hub)](https://github.com/faraz18001/D.A.S.H-Production)
-A full-stack platform that lets users query transaction data using natural language. Powered by LangChain and GPT-4 with FAISS vector search for context-aware responses.
-
-#### [WaveFix (AI Tech Support Agent)](https://github.com/faraz18001/Faq-Chatbot)
-An intelligent support agent that uses RAG architecture to search knowledge bases and resolve technical issues through conversational AI.
-
-#### [Ticket Forecasting (ML Demand Prediction)](https://github.com/faraz18001/Forecastsing-Model)
-A machine learning forecasting system built with Prophet that predicts support ticket volumes, enabling proactive resource allocation.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⬡ D.A.S.H</h3>
+      <p><em>Data Analysis System Hub</em></p>
+      <p>Natural language querying for transaction databases. Users ask questions in plain English — LangChain + GPT-4 + FAISS handles the rest.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/FAISS-E8A848?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+      <a href="https://github.com/faraz18001/D.A.S.H-Production">
+        <img src="https://img.shields.io/badge/View_Repo-E8A848?style=for-the-badge&logo=github&logoColor=black" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⬡ WaveFix</h3>
+      <p><em>AI Tech Support Agent</em></p>
+      <p>RAG-powered support agent that ingests knowledge bases and resolves technical queries through a conversational interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-D4634A?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+      <a href="https://github.com/faraz18001/Faq-Chatbot">
+        <img src="https://img.shields.io/badge/View_Repo-E8A848?style=for-the-badge&logo=github&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⬡ Ticket Forecasting</h3>
+      <p><em>ML Demand Prediction</em></p>
+      <p>Forecasting system using Prophet to predict support ticket volumes — enabling proactive resource allocation before demand spikes hit.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Prophet-D4634A?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+      <a href="https://github.com/faraz18001/Forecastsing-Model">
+        <img src="https://img.shields.io/badge/View_Repo-E8A848?style=for-the-badge&logo=github&logoColor=black" />
+      </a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
