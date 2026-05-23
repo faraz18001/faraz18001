@@ -71,7 +71,7 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>⬡ WaveFix</h3>
+      <h3>⬡ Spectra Assisstant</h3>
       <p><em>AI Tech Support Agent</em></p>
       <p>RAG-powered support agent that ingests knowledge bases and resolves technical queries through a conversational interface.</p>
       <p>
