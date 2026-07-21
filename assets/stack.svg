@@ -25,7 +25,7 @@
           line-height: 1;
         }
         .stack-label {
-          color: #E8A848;
+          color: #e6edf3;
           font-weight: 600;
           width: 110px;
           flex-shrink: 0;
