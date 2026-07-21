@@ -29,5 +29,5 @@
 <br>
 
 <p align="center">
-  <img src="./assets/contact-v3.svg" alt="Contact" width="800" />
+  <img src="./assets/contact-v4.svg" alt="Contact" width="800" />
 </p>
