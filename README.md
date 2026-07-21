@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-v3.svg" alt="Syed Faraz — AI / ML Engineer" width="800" />
+  <img src="./assets/header-v4.svg" alt="Syed Faraz — AI / ML Engineer" width="800" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
     <img src="./assets/project-forecast-v3.svg" alt="Ticket Forecasting — ML Demand Prediction" width="390" />
   </a>
   <a href="https://github.com/faraz18001/Vetlog-AI">
-    <img src="./assets/project-vetlog-v3.svg" alt="Vetlog-AI — WhatsApp Report Summarizer" width="390" />
+    <img src="./assets/project-vetlog-v4.svg" alt="Vetlog-AI — WhatsApp Report Summarizer" width="390" />
   </a>
 </p>
 
