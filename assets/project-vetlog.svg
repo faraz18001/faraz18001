@@ -1,69 +1,77 @@
-<svg fill="none" viewBox="0 0 800 210" width="800" height="210" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 390 240" width="390" height="240" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .header-card {
+        .project-card {
           width: 100%;
-          height: 200px;
+          height: 230px;
           background: #0d1117;
-          color: #e6edf3;
-          padding: 32px 40px;
+          padding: 24px 28px;
           border-radius: 16px;
           font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
           border: 1px solid #21262d;
           box-sizing: border-box;
           display: flex;
           flex-direction: column;
-          justify-content: center;
         }
-        .header-top {
+        .project-header {
           display: flex;
           align-items: center;
-          gap: 14px;
-          margin-bottom: 6px;
+          gap: 10px;
+          margin-bottom: 4px;
         }
-        .header-icon {
-          width: 28px;
-          height: 28px;
+        .project-icon {
+          width: 18px;
+          height: 18px;
           flex-shrink: 0;
         }
-        .header-name {
-          margin: 0;
-          font-size: 36px;
+        .project-name {
+          font-size: 18px;
           font-weight: 700;
           color: #e6edf3;
-          letter-spacing: -0.5px;
-        }
-        .header-title {
-          margin: 0 0 16px 0;
-          font-size: 16px;
-          font-weight: 400;
-          color: #8b949e;
-        }
-        .header-title-accent {
-          color: #E8A848;
-          font-weight: 600;
-        }
-        .header-desc {
           margin: 0;
-          font-size: 14px;
-          color: #7d8590;
-          line-height: 1.6;
         }
-        .header-highlight {
-          color: #c9d1d9;
+        .project-subtitle {
+          font-size: 13px;
+          font-style: italic;
+          color: #8b949e;
+          margin: 0 0 12px 0;
+        }
+        .project-desc {
+          font-size: 12.5px;
+          color: #7d8590;
+          line-height: 1.5;
+          margin: 0 0 auto 0;
+        }
+        .project-tags {
+          display: flex;
+          gap: 6px;
+          flex-wrap: wrap;
+          margin-top: 14px;
+        }
+        .tag {
+          font-size: 10px;
+          text-transform: uppercase;
+          letter-spacing: 0.5px;
+          color: #8b949e;
+          background: #161b22;
+          border: 1px solid #30363d;
+          border-radius: 4px;
+          padding: 3px 8px;
         }
       </style>
-      <div class="header-card">
-        <div class="header-top">
-          <svg class="header-icon" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <div class="project-card">
+        <div class="project-header">
+          <svg class="project-icon" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path fill="#E8A848" d="M4.646 12.647a.5.5 0 0 1 .707.707l-1 1a.5.5 0 1 1-.707-.707zM10.41.811a6.3 6.3 0 0 1 1.794-.02c.528.08 1.051.256 1.4.605c.348.348.525.87.604 1.399c.081.543.07 1.166-.02 1.794c-.177 1.239-.68 2.608-1.535 3.464l-.623.623l.465 3.253a.5.5 0 0 1-.142.424l-2 2a.5.5 0 0 1-.782-.096l-1.17-1.951l-.548.547a.5.5 0 0 1-.707 0l-1.5-1.5a.5.5 0 1 1 .707-.707L7.5 11.793l4.446-4.446c.645-.645 1.093-1.775 1.253-2.899a5.4 5.4 0 0 0 .02-1.505c-.067-.442-.196-.713-.323-.84c-.126-.126-.397-.256-.84-.322a5.4 5.4 0 0 0-1.504.02c-1.053.151-2.112.554-2.772 1.135l-.127.118L3.207 7.5l1.146 1.146a.5.5 0 0 1-.707.708l-1.5-1.5a.5.5 0 0 1 0-.708l.547-.546l-1.95-1.171a.5.5 0 0 1-.097-.783l2-2a.5.5 0 0 1 .424-.141l3.253.465l.623-.623C7.802 1.49 9.171.989 10.41.812M3.146 11.147a.5.5 0 0 1 .707.707l-2 2a.5.5 0 1 1-.707-.707zm5.984.431l.97 1.615l1.37-1.37l-.324-2.262zM1.646 9.647a.5.5 0 0 1 .707.707l-1 1a.5.5 0 1 1-.707-.707zM9.5 4.25a1.25 1.25 0 1 1 0 2.499a1.25 1.25 0 0 1 0-2.499m-7.693.65l1.616.97l2.016-2.017l-2.262-.324z"/>
           </svg>
-          <div class="header-name">Syed Faraz</div>
+          <div class="project-name">Vetlog-AI</div>
         </div>
-        <div class="header-title"><span class="header-title-accent">AI / ML Engineer</span>  ·  Karachi, Pakistan</div>
-        <div class="header-desc">
-          Designing and shipping <span class="header-highlight">RAG pipelines</span>, <span class="header-highlight">LLM agents</span>, and <span class="header-highlight">ML forecasting systems</span> — 3 years end-to-end, from data exploration to production.
+        <div class="project-subtitle">WhatsApp Report Summarizer</div>
+        <div class="project-desc">AI-powered report summarizer delivered through WhatsApp Business API. Sends documents, gets back clean GPT-4o summaries — no app needed.</div>
+        <div class="project-tags">
+          <span class="tag">GPT-4o</span>
+          <span class="tag">WhatsApp API</span>
         </div>
       </div>
     </div>
