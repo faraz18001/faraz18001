@@ -1,0 +1,55 @@
+<svg fill="none" viewBox="0 0 800 210" width="800" height="210" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .header-card {
+          width: 100%;
+          height: 200px;
+          background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #0d1117 100%);
+          color: #e6edf3;
+          padding: 32px 40px;
+          border-radius: 16px;
+          font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+          border: 1px solid #30363d;
+          box-sizing: border-box;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+        }
+        .header-name {
+          margin: 0 0 6px 0;
+          font-size: 36px;
+          font-weight: 700;
+          color: #E8A848;
+          letter-spacing: -0.5px;
+        }
+        .header-title {
+          margin: 0 0 16px 0;
+          font-size: 18px;
+          font-weight: 400;
+          color: #8b949e;
+        }
+        .header-desc {
+          margin: 0;
+          font-size: 14px;
+          color: #7d8590;
+          line-height: 1.5;
+        }
+        .header-accent {
+          color: #D4634A;
+          font-weight: 600;
+        }
+        .header-highlight {
+          color: #c9d1d9;
+        }
+      </style>
+      <div class="header-card">
+        <div class="header-name">Syed Faraz</div>
+        <div class="header-title">AI / ML Engineer · Karachi, Pakistan</div>
+        <div class="header-desc">
+          Designing and shipping <span class="header-highlight">RAG pipelines</span>, <span class="header-highlight">LLM agents</span>, and <span class="header-highlight">ML forecasting systems</span> — <span class="header-accent">3 years</span> end-to-end, from data exploration to production.
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

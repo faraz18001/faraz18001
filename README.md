@@ -1,40 +1,19 @@
-```bash
-faraz@wavetec:~$ whoami
-```
-```
-Syed Faraz — AI / ML Engineer
-Karachi, Pakistan
-```
+<p align="center">
+  <img src="./assets/header.svg" alt="Syed Faraz — AI / ML Engineer" width="800" />
+</p>
 
-```bash
-faraz@wavetec:~$ cat status.txt
-```
-```
-→ building production RAG pipelines, LLM agents, and ML forecasting systems
-→ 3 years shipping end-to-end: data exploration → deployment → monitoring
-→ currently exploring new architectures, contributing to open source,
-  and writing about practical ML engineering
-```
-
-```bash
-faraz@wavetec:~$ ./run_diagnostics.sh --stack
-```
-```
-[languages]   python
-[frameworks]  fastapi · react · next.js · vite
-[ml/ai]       langchain · openai · huggingface · ollama · faiss · prophet
-[infra]       docker · postgresql · linux · jupyter
-[tools]       git · github · vscode
-```
+<p align="center">
+  <img src="./assets/stack.svg" alt="Tech Stack" width="800" />
+</p>
 
 ---
 
-### // SELECTED WORK
+### ⬡ Selected Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⬡ D.A.S.H</h3>
+      <h3>D.A.S.H</h3>
       <p><em>Data Analysis System Hub</em></p>
       <p>Natural language querying for transaction databases. Users ask questions in plain English — LangChain + GPT-4 + FAISS handles the rest.</p>
       <p>
@@ -47,7 +26,7 @@ faraz@wavetec:~$ ./run_diagnostics.sh --stack
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>⬡ Spectra Assisstant</h3>
+      <h3>WaveFix</h3>
       <p><em>AI Tech Support Agent</em></p>
       <p>RAG-powered support agent that ingests knowledge bases and resolves technical queries through a conversational interface.</p>
       <p>
@@ -62,7 +41,7 @@ faraz@wavetec:~$ ./run_diagnostics.sh --stack
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⬡ Ticket Forecasting</h3>
+      <h3>Ticket Forecasting</h3>
       <p><em>ML Demand Prediction</em></p>
       <p>Forecasting system using Prophet to predict support ticket volumes — enabling proactive resource allocation before demand spikes hit.</p>
       <p>
@@ -75,7 +54,7 @@ faraz@wavetec:~$ ./run_diagnostics.sh --stack
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>⬡ Vetlog-AI</h3>
+      <h3>Vetlog-AI</h3>
       <p><em>WhatsApp Report Summarizer</em></p>
       <p>AI-powered report summarizer delivered through WhatsApp Business API. Sends documents, gets back clean GPT-4o summaries — no app needed.</p>
       <p>
@@ -91,11 +70,6 @@ faraz@wavetec:~$ ./run_diagnostics.sh --stack
 
 ---
 
-```bash
-faraz@wavetec:~$ contact --me
-```
-```
-→ email:     syedfaraz1900@gmail.com
-→ portfolio: faraz-portfolio-url.com
-→ linkedin:  linkedin.com/in/YOUR_LINKEDIN_USERNAME
-```
+<p align="center">
+  <img src="./assets/contact.svg" alt="Contact" width="800" />
+</p>
